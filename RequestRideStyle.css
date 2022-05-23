@@ -1,0 +1,72 @@
+﻿
+body {
+    background-color: black;
+    color: black;
+    background-image: url('https://get.wallhere.com/photo/yellow-background-car-vehicle-Porsche-yellow-cars-1592067.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1 {
+    color: black;
+}
+
+select {
+    border: solid;
+    color: red;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 8px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+}
+
+input[id=Button1] {
+    background-color: lavender;
+    border: solid;
+    color: red;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 12px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+}
+
+input[id=Button2] {
+    background-color: lavender;
+    border: solid;
+    color: red;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 12px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+}
+
+input[id=Button3] {
+    background-color: lavender;
+    border: solid;
+    color: red;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 12px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+}
+
+input[id=TextBox1], [id=TextBox2], [id=TextBox3], [id=TextBox4], [id=TextBox5], [id=TextBox6], [id=TextBox7], [id=TextBox8] {
+    background-color: white;
+    border: solid;
+    color: red;
+    padding: 3px 23px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 8px;
+    cursor: default;
+    box-shadow: 1px 2px 3px 1px rgb(152,251,152), 1px 2px 3px 1px rgb(152,251,152);
+}

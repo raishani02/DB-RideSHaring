@@ -1,0 +1,98 @@
+﻿body1 {
+    background-color: white;
+    color: white;
+    background: url(img/hg.jpeg) no-repeat center center/cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1 {
+    color: white;
+    font:50px;
+}
+
+select {
+    border: solid;
+    color: white;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 8px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+}
+
+input[id=Button1] {
+    background-color: white;
+    border: solid;
+    color: red;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 12px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+}
+
+input[id=Button2] {
+    background-color: white;
+    border: solid;
+    color: red;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 12px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+    align-self: auto;
+}
+
+input[id=Button3] {
+    background-color: white;
+    border: solid;
+    color: red;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 12px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+}
+
+input[id=Button4] {
+    background-color: white;
+    border: solid;
+    color: red;
+    padding: 3px 24px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 12px;
+    cursor: default;
+    box-shadow: 0 6px 20px 0 rgb(148,119,203), 0 6px 20px 0 rgb(148,119,203);
+}
+
+
+input[id=TextBox1], [id=TextBox2], [id=TextBox3], [id=TextBox4] {
+    background-color: white;
+    border: solid;
+    color: red;
+    padding: 3px 23px;
+    text-decoration: solid;
+    font-size: 12px;
+    border-radius: 8px;
+    cursor: default;
+    box-shadow: 1px 2px 3px 1px rgb(152,251,152), 1px 2px 3px 1px rgb(152,251,152);
+}
+
+input[id=submit] {
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+    background-color: green;
+}
+
+    input [id=submit]:hover {
+        background-color: orange;
+    }
+    
